@@ -1,0 +1,1 @@
+Otwieranie projektu: przycisk Open in colaboratory
